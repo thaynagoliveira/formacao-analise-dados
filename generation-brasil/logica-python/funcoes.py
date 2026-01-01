@@ -21,3 +21,4 @@ def raiz(num1, num2):
         return "Erro ao calcular"
     return num1 ** (1/num2)
 
+
