@@ -7,16 +7,16 @@ Repositório centralizado para armazenamento de exercícios, notas de aula e pro
 ## 📂 Organização de Conteúdos
 
 ### 🔹 Generation Brasil (Bootcamp)
-* **`logica-python/`**: Exercícios de lógica, estruturas de repetição e funções.
-* **`analise-dados/`**: Manipulação de arquivos, bibliotecas Pandas/NumPy e estatística.
-* **`python-sql/`**: Scripts de integração com bancos de dados relacionais.
-* **`projetos-scripts/`**: Aplicações práticas e automações desenvolvidas em aula.
+* **`logica_python/`**: Exercícios de lógica, estruturas de repetição e funções.
+* **`analise_dados/`**: Manipulação de arquivos, bibliotecas Pandas/NumPy e estatística.
+* **`python_sql/`**: Scripts de integração com bancos de dados relacionais.
+* **`projetos_scripts/`**: Aplicações práticas e automações desenvolvidas em aula.
 
 ### 🔹 Univesp (Graduação)
-* **`cienca-dados-graduacao/`**: Atividades e fundamentos teóricos da graduação.
+* **`ciencia_dados_graduacao/`**: Atividades e fundamentos teóricos da graduação.
 
 ### 🔹 Cursos Complementares
-* **`data-science-academy/`**: Práticas de Python e Power BI.
+* **`data_science_academy/`**: Práticas de Python e Power BI.
 
 ---
 

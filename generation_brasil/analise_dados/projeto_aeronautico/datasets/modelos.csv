@@ -1,0 +1,8 @@
+"id;modelo;companhia;capacidade;ano_fabricacao";id;modelo;companhia;capacidade;ano_fabricacao
+"1;Boeing 737-800;Gol;186;2015";;;;;
+"2;Airbus A320neo;LATAM;174;2019";;;;;
+"3;Boeing 777-300ER;Emirates;354;2017";;;;;
+"4;Airbus A350-900;Qatar Airways;283;2020";;;;;
+"5;Boeing 787-9;American Airlines;285;2018";;;;;
+;1.0;Boeing 737-800;Gol;186.0;2015.0
+;2;Airbus;Gol;186;2015
